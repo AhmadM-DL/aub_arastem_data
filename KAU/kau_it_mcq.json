@@ -1,0 +1,712 @@
+[
+  {
+    "question": "الحاسب الآلي يتكون فقط من معدات و أجهزة (Hardware )",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "الحاسب الرقمي الشخصي (PDA ) يعتبر أغلى أنواع الحاسبات",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "خدمة البريد الإلكتروني تتيح إلحاق الملفات للرسائل الإلكترونية المتبادلة",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "توفير البيئة الصحية لاستخدام الحاسب لها تأثير إيجابي لزيادة إنتاجية المستخدمين",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "السعة التخزينية للأقراص المضغوطة (Zip Disks ) تزيد عن سعة الأقراص الرقمية (DVD )",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "المهمة الأساسية للماسح الضوئي هي تخزين الصور بعد معالجتها بواسطة الحاسب",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "يعد جهاز القرص الصلب وحدة إدخال و إخراج بيانات من و إلى الحاسب",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "كلما زاد عدد البكسل ( (PIXEL في الشاشة كلما قل وضوح وتفاصيل الصور",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "برنامج نظام التشغيل( Windows XP ) يجب تحميله قبل بدء العمل على الحاسب",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "في نظم التشغيل ( Windows XP ) يشير الاختصار (GUI ) إلى واجهة المستخدم الرسومية للتعامل مع النظام",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "يشير الاختصار RAM إلى ذاكرة الوصول العشوائي",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "ذاكرة القراءة فقط ROM لاتفقد بياناتها المخزنة عند فصل التيار الكهربائي عن الحاسب",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "دورة حياة تطوير النظام المشار إليها بالاختصار SDLC تبدأ بمرحلة التصميم",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "برنامج أدوبى فوتوشوب Adobe Photoshop يستخدم في متابعة الإيرادات",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "يستخدم مفتاح Print Screen من لوحة المفاتيح لأخذ صورة لشاشة سطح المكتب",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "إحدى فوائد استخدام الشبكات هي مشاركة المستخدمين في استخدام موارد الحاسبات",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "الحاسب الملقم أو الخادم يقوم باستخدام الخدمات و الموارد المزودة من قبل الحاسب العميل",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "تستخدم الشركات بعض بيانات عملائها المدونة على مواقع الإنترنت لدراسة السوق",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "الأكسترانت هي شبكة خاصة تسمح لمستخدميها فقط باستخدام مواردها من خلال منافذ أمنة عبر شبكة عامة مثل شبكة الإنترنت",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "تحتوى أجهزة الملقمات أو الخوادم على الفيروسات لحماية بياناتها ضد المتسللين Hackers",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "من أهم مميزات التجارة الإلكترونية:",
+    "answer": {
+      "option_0": "تزيد الاتصال البشرى",
+      "option_1": "أمنة تماما",
+      "option_2": "تمكن المشترى من مشاهدة البضائع قبل استخدامها",
+      "option_3": "متوفرة على مدار ال24 ساعة",
+      "correct_option": 3
+    }
+  },
+  {
+    "question": "أي الحاسبات التالية الأسرع في معالجة البيانات:",
+    "answer": {
+      "option_0": "الحاسب المركزي",
+      "option_1": "الحاسب الشخصي",
+      "option_2": "الحاسب المحمول",
+      "option_3": "الحاسب المتوسط",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "تحتوى الطرفيات الذكية على :",
+    "answer": {
+      "option_0": "شاشة و لوحة مفاتيح",
+      "option_1": "وحدة معالجة",
+      "option_2": "ذاكرة",
+      "option_3": "كل ما سبق",
+      "correct_option": 3
+    }
+  },
+  {
+    "question": "في الحاسب الشخصي تتحدد سرعة المعالج بــ :",
+    "answer": {
+      "option_0": "جيجاهيرتز",
+      "option_1": "ملي ثانية",
+      "option_2": "كيلو بايت",
+      "option_3": "تردد الساعة",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "في الحاسب الشخصي يقاس سعة الذاكرة RAM بــ:",
+    "answer": {
+      "option_0": "بت",
+      "option_1": "بايت",
+      "option_2": "جيجاهيرتز",
+      "option_3": "ميجابايت",
+      "correct_option": 3
+    }
+  },
+  {
+    "question": "أي من التالي يعتبر جزء من CPU :",
+    "answer": {
+      "option_0": "وحدة تنفيذ العمليات الحسابية و المنطقية",
+      "option_1": "القرص الرقمي",
+      "option_2": "الطابعة",
+      "option_3": "الشاشة",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "أي الوحدات الآتية تعتبر وحدة إخراج:",
+    "answer": {
+      "option_0": "عصا اللعب",
+      "option_1": "آلة التصوير الرقمية",
+      "option_2": "الشاشة",
+      "option_3": "الفأرة",
+      "correct_option": 2
+    }
+  },
+  {
+    "question": "أي الوحدات الآتية تعتبر وحدة إدخال فقط:",
+    "answer": {
+      "option_0": "الميكروفون",
+      "option_1": "الطابعة",
+      "option_2": "الشاشة",
+      "option_3": "القرص الصلب",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "أي الوحدات الآتية تعتبر وحدة إدخال و إخراج:",
+    "answer": {
+      "option_0": "القرص الصلب",
+      "option_1": "الميكروفون",
+      "option_2": "الفأرة",
+      "option_3": "الطابعة",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "يستخدم نظام ويندوز أيا من أشكال الواجهات البيئية (Interface ) التالية:",
+    "answer": {
+      "option_0": "أسطر أوامر",
+      "option_1": "القوائم المعدة",
+      "option_2": "واجهة المستخدم الرسومية (GUI )",
+      "option_3": "كل ما سبق",
+      "correct_option": 2
+    }
+  },
+  {
+    "question": "أي الوحدات التالية لا يفقد بياناته عند فصل التيار الكهربائي عن الحاسب:",
+    "answer": {
+      "option_0": "الفأرة",
+      "option_1": "ذاكرة الوصول العشوائي",
+      "option_2": "القرص الصلب",
+      "option_3": "لوحة المفاتيح",
+      "correct_option": 2
+    }
+  },
+  {
+    "question": "البرامج المجانية تعطى لمستخدميها حق:",
+    "answer": {
+      "option_0": "استخدامها و نسخها",
+      "option_1": "تعديلها",
+      "option_2": "بيعها",
+      "option_3": "كل ما سبق",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "الشبكة التي تربط أجهزة الحاسبات بين المدن و البلدان و حتى القارات هي شبكة :",
+    "answer": {
+      "option_0": "LAN",
+      "option_1": "WAN",
+      "option_2": "TAN",
+      "option_3": "NIC",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "الشبكة التي تربط أجهزة الحاسبات في منطقة جغرافية صغيرة هي شبكة:",
+    "answer": {
+      "option_0": "LAN",
+      "option_1": "WAN",
+      "option_2": "TAN",
+      "option_3": "NIC",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "أي من الطرق التالية تصلح لبناء الاتصال بشبكة الانترنت:",
+    "answer": {
+      "option_0": "ADSL",
+      "option_1": "ISDN",
+      "option_2": "القمر الصناعي",
+      "option_3": "كل ما سبق",
+      "correct_option": 3
+    }
+  },
+  {
+    "question": "يمكن الوصول إلى أي موقع عبر شبكة الانترنت بسهولة عبر:",
+    "answer": {
+      "option_0": "متصفح انترنت إكسبلورر",
+      "option_1": "برنامج ورد",
+      "option_2": "ربط الحاسب بشبكة الانترنت",
+      "option_3": "URL",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "أي البروتوكولات التالية تستخدم لنقل البيانات عبر ملقمات الويب و المتصفحات:",
+    "answer": {
+      "option_0": "SMTP",
+      "option_1": "HTTP",
+      "option_2": "PSTN",
+      "option_3": "كل ما سبق",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "جهاز المودم Modem يقوم:",
+    "answer": {
+      "option_0": "تخزين البيانات",
+      "option_1": "معالجة الصور",
+      "option_2": "تحويل الإشارات التماثلية إلى رقمية و من ثم العكس",
+      "option_3": "ليس مما سبق",
+      "correct_option": 2
+    }
+  },
+  {
+    "question": "يعتبر منهجية التسمية القياسية المستخدمة على شبكة الانترنت هو الـ URL و تحتوى على المعلومات التالية:",
+    "answer": {
+      "option_0": "نوع المصدر Source Type",
+      "option_1": "أسم المضيف Hostname",
+      "option_2": "المسار Path",
+      "option_3": "كل ما سبق",
+      "correct_option": 3
+    }
+  },
+  {
+    "question": "أي من التطبيقات التالية ليس تطبيقا مناسبا لاستخدام القدرات العالية للحاسب المركزي:",
+    "answer": {
+      "option_0": "معالجة النصوص و الكلمات",
+      "option_1": "حجز تذاكر الطيران",
+      "option_2": "المعاملات البنكية",
+      "option_3": "إصدار فواتير شركات الكهرباء",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "تعتبر (MainFrames)  من أكثر الحاسبات استخداماً في الشركات حيث ترتبط بمئات الطرفيات.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "Hardware عبارة عن القطع و الأجزاء التي يمكن لمسها.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "تقوم (Speakers ) بإخراج البيانات إلى المستخدم عن طريق نص مطبوع.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "يتم نقل البيانات عبر شبكة الهاتف العمومية على شكل صوت.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "من أهم استخدام تقنية المعلومات في حياتنا اليومية  Internet و Tele Working",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "في LAN   يمكن ربط أجهزة الحاسب  بواسطة كابلات في مناطق مختلفة.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "لمعاينة الملف قبل الطباعة نستخدم Page & Setup .",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "لإعادة تسمية الملف باستخدام لوحة المفاتيح نقوم بالضغط على المفتاح F2",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "لتحديد كامل النص في مستند نقوم بالضغط على مفتاحي Shift + A",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "تقاس سرعة المعالج بـ Hz",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "أرخص أنواع الحواسيب ثمناً وأكثرها شيوعاً :",
+    "answer": {
+      "option_0": "Mini Computers",
+      "option_1": "Main Frames",
+      "option_2": "Super Computers",
+      "option_3": "Personal Computers",
+      "correct_option": 3
+    }
+  },
+  {
+    "question": "تتحكم بتدفق الأوامر من وحدات الإدخال ومعالجتها ثم إخراجها عن طريق وحدات الإخراج  :",
+    "answer": {
+      "option_0": "CPU .",
+      "option_1": "AUL .",
+      "option_2": ".GUI",
+      "option_3": "Cash Memory .",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "يتم حفظ معلومات وحدات الإدخال و الإخراج المتصلة بالجهاز و بيانات الشركة المصنعة في .. :",
+    "answer": {
+      "option_0": "Operating System .",
+      "option_1": "RAM .",
+      "option_2": "ROM .",
+      "option_3": "Cash Memory .",
+      "correct_option": 2
+    }
+  },
+  {
+    "question": "من أنواع تقنيات خطوط الاتصال :",
+    "answer": {
+      "option_0": "ISDN",
+      "option_1": "IDSL",
+      "option_2": "PSTN",
+      "option_3": "جميع ماذكر.",
+      "correct_option": 3
+    }
+  },
+  {
+    "question": "هي إنشاء نسخة إضافية من المواد المخزنة على وسائط التخزين:",
+    "answer": {
+      "option_0": "Copyright",
+      "option_1": "Privacy",
+      "option_2": "Access Right",
+      "option_3": "Backup .",
+      "correct_option": 3
+    }
+  },
+  {
+    "question": "لتغيير اتجاه الكتابة من اليسار إلى اليمين (انجليزي):",
+    "answer": {
+      "option_0": "Shift + Alt  من اليسار",
+      "option_1": "Shift + Alt  من اليمين",
+      "option_2": "Shift + Ctrl  من اليمين",
+      "option_3": "Shift + Ctrl  من اليسار",
+      "correct_option": 3
+    }
+  },
+  {
+    "question": "من مهام نظام التشغيل الأساسية :",
+    "answer": {
+      "option_0": "عرض معلومات المكونات المادية عند التشغيل .",
+      "option_1": "تخزين البيانات في الجهاز.",
+      "option_2": "إدراج الاطارات و الصور والجداول.",
+      "option_3": "طباعة البيانات على ورق.",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "يقصد بـ Authorization :",
+    "answer": {
+      "option_0": "وضع اسم مستخدم وكلمة سر للجهاز",
+      "option_1": "حماية بيانات الآخرين من العبث.",
+      "option_2": "التحكم بالوصول إلى المعلومات أو النظام.",
+      "option_3": "جميع ما سبق",
+      "correct_option": 2
+    }
+  },
+  {
+    "question": "نوع ملف عارض الشرائح :",
+    "answer": {
+      "option_0": "ppt",
+      "option_1": "exe",
+      "option_2": "xls",
+      "option_3": "gif",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "للتحكم في عرض المجلدات المخفية نستخدم:",
+    "answer": {
+      "option_0": "Folder Type",
+      "option_1": "Folder Option",
+      "option_2": "Folder Tool",
+      "option_3": "File Type",
+      "correct_option": 1
+    }
+  }, 
+  {
+    "question": "يعتبر نظام التشغيل Mac غير رسومي.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "يقصد بنظام التشغيل Applications حلقة الوصل بين المستخدم والحاسب.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "يستخدم برنامج Microsoft Word في كتابة النصوص و إدراج الجداول و الصور.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "تعتبر وحدة التحكم من أجزاء وحدة نظام التشغيل الرئيسية.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "Touchscreen يعتبر جهاز إدخال وإخراج.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "من أقسام النافذة في برنامج Windows شريط العنوان.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "يمكن التحكم بلغات لوحة المفاتيح عن طريق الخيارات الإقليمية و خيارات اللغات.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "نمط خط العبارة\" الرخصة الدولية\" هو تسطير.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "لإدراج رمز نستخدم (Insert Symbole) من قائمة تنسيق.",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "يتم البحث داخل مستند عن طريق أمر Replace",
+    "answer": {
+      "option_0": "صح",
+      "option_1": "خطأ",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "أي من الأجهزة التالية تعتبر الأسرع في معالجة البيانات:",
+    "answer": {
+      "option_0": "Main Frames",
+      "option_1": "Personal Computer",
+      "option_2": "Super Computer",
+      "option_3": "Mini Computer",
+      "correct_option": 2
+    }
+  },
+  {
+    "question": "أي من الأجهزة التالية يعتبر جهاز إدخال :",
+    "answer": {
+      "option_0": "Monitor",
+      "option_1": "Microphone",
+      "option_2": "Speakers",
+      "option_3": "Printer",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "يقصد بالمشاركة بالأجهزة :",
+    "answer": {
+      "option_0": "المشاركة في عملية التخزين في الأطراف المتصلة بالشبكة .",
+      "option_1": "المشاركة في الماسح الضوئي.",
+      "option_2": "المشاركة في الطابعات .",
+      "option_3": "جميع ما سبق.",
+      "correct_option": 3
+    }
+  },
+  {
+    "question": "للانتقال إلى آخر مستند في برنامج Word عن طريق:",
+    "answer": {
+      "option_0": "Ctrl +End",
+      "option_1": "Alet + End",
+      "option_2": "End",
+      "option_3": "غير ذلك",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "يقصد Freeware :",
+    "answer": {
+      "option_0": "برمجيات تجريبية",
+      "option_1": "برمجيات أصلية",
+      "option_2": "برمجيات مجانية",
+      "option_3": "جميع ما سبق",
+      "correct_option": 2
+    }
+  },
+  {
+    "question": "أي مما يلي يستخدم لتخزين موسوعة متعددة الوسائط تحوي 100 جيجابايت من البيانات و تستخدم في حاسوب شخصي:",
+    "answer": {
+      "option_0": "Floppy Disk .",
+      "option_1": "HD .",
+      "option_2": "DVD-ROM .",
+      "option_3": "CD-ROM .",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "يتم تحديد اتجاه الطباعة عن طريق:",
+    "answer": {
+      "option_0": "Print & Setup .",
+      "option_1": "Page Setup .",
+      "option_2": "Print .",
+      "option_3": "Style .",
+      "correct_option": 1
+    }
+  },
+  {
+    "question": "عند التحويل بين اللغة العربية والانجليزية يتم الضغط على:",
+    "answer": {
+      "option_0": "Alt + Shift",
+      "option_1": "Ctrl + Shift",
+      "option_2": "Ctrl + A",
+      "option_3": "Ctrl + E",
+      "correct_option": 0
+    }
+  },
+  {
+    "question": "يمكن إظهار و إخفاء الساعة و الوقت عن طريق:",
+    "answer": {
+      "option_0": "خيارات المجلد",
+      "option_1": "سطح المكتب",
+      "option_2": "شريط المهام",
+      "option_3": "قائمة إبدأ .",
+      "correct_option": 2
+    }
+  }
+]

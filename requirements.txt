@@ -1,0 +1,7 @@
+ipykernel
+matplotlib
+plotnine
+pandas
+numpy
+requests
+beautifulsoup4
